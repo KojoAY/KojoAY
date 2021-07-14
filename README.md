@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KojoAY
-- 👀 I’m interested in programming, cooking, talking, working out and movies
-- 🌱 I’m currently learning flutter, firebase, python
+- 👀 I programme in php, MySQL, Java, C/C#, React.js, React Native, Express.js, Angualar,js, Meteor.js, JSON, XML, Flutter, Firebase, Python
+- 🌱 I’m currently learning flutter, firebase, Python, GoLang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kojo.email@gmail.com
 
